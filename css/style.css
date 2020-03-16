@@ -21,3 +21,21 @@ header img {
   width: 280px;
   vertical-align:bottom;
 }
+
+.btn{
+  text-decoration:none;
+  background:#fff ;
+  color: #f59a00;
+  display: block;
+  width: 140px;
+  line-height: 44px;
+  margin: 40px auto 48px;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 4px;
+
+}
+
+.btn:hover{
+  opacity:0.9;
+}
